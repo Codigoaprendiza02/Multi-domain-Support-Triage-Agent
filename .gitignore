@@ -19,6 +19,7 @@ __pycache__/
 dist/
 build/
 *.tsbuildinfo
+PRD.md
 
 # editor / os
 .DS_Store
