@@ -1,0 +1,6 @@
+Sample Visa Article
+
+This plain text fixture verifies that text ingestion works for visa content.
+It also includes repeated language for chunking and metadata checks.
+It also includes repeated language for chunking and metadata checks.
+It also includes repeated language for chunking and metadata checks.

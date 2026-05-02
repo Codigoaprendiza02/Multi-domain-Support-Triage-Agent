@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  agent:
+    build:
+      context: ./code
+    volumes:
+      - ./data:/data:ro
+      - ./support_tickets:/support_tickets
+      - ./.env:/app/.env:ro
+    command: python main.py
